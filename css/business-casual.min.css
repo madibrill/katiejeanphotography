@@ -283,13 +283,16 @@ body {
 #katie{
     width: 500px;
     position: relative;
-    left: 190px;
+    left: 180px;
     top: -20px;
     border-radius: 3px;
 }
 
-/* #abouttext{
+.fblink{
+    color: black !important;
+}
+
+.fb{
     position: relative;
-    bottom: 200px;
-    width: 600px;
-} */
+    top: 15px;
+}
